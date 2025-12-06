@@ -10,7 +10,7 @@
    
    ### Se adjunta el Manual de Protocolo
    [[Infome Precios comparados y Recomendaciones](https://docs.google.com/document/d/1iwnoiY1fjRfMec_jYCXKRqtxY_Bt8W74KFNsT7n0Cto/edit?usp=sharing))]
-   [[Tabla de Precios en Planilla de Cálculo Google]( (https://gamma.app/docs/Navidad-2025-Precios-en-Posadas-vs-Encarnacion-udyyxooqnbr85ui))]
+   (https://gamma.app/docs/Navidad-2025-Precios-en-Posadas-vs-Encarnacion-udyyxooqnbr85ui))]
 
    ### Presentaciones armadas
-   [[Presentaciones sobre Precios comparados y Recomendaciones]( AQUI VA LA DIRECCION PRESENTACIONES REALIZADAS)]
+   [[Presentaciones sobre Precios comparados y Recomendaciones]( https://gamma.app/docs/Navidad-2025-Precios-en-Posadas-vs-Encarnacion-udyyxooqnbr85ui)]
